@@ -19,5 +19,6 @@ struct Test01App: App {
 struct Test01App_Previews: PreviewProvider {
     static var previews: some View {
         /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+        Text("main1")
     }
 }
